@@ -1,5 +1,7 @@
 # Movie-Search-App
 
+Hoisting Link: https://movie-web-search-app.netlify.app/
+
 • Utilized an API to retrieve data and display information about movies.</br>
 • Implemented a user-friendly interface for users to search for movies by title.</br>
 • Implemented pagination or infinite scroll to enable users to browse through large amounts of movie data easily and also added some CSS properties to make it responsive.</br>
