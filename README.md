@@ -1,11 +1,12 @@
 # Movie-Search-App
 
-• Utilized an API to retrieve data and display information about movies.
-• Implemented a user-friendly interface for users to search for movies by title.
-• Implemented pagination or infinite scroll to enable users to browse through large amounts of movie data easily. and also added some CSS properties to make it responsive.
-• Demonstrated proficiency in front-end web development and working with APIs.
-• Conducted testing and debugging to ensure smooth functionality and error-free operation.
-• Tech Stack: HTML, CSS, Java Script and API.
+• Utilized an API to retrieve data and display information about movies.</br>
+• Implemented a user-friendly interface for users to search for movies by title.</br>
+• Implemented pagination or infinite scroll to enable users to browse through large amounts of movie data easily and also added some CSS properties to make it responsive.</br>
+• Demonstrated proficiency in front-end web development and working with APIs.</br>
+• Conducted testing and debugging to ensure smooth functionality and error-free operation.</br>
+• Tech Stack: HTML, CSS, Java Script and API.</br>
 ![movieapp](https://user-images.githubusercontent.com/91786605/235800485-3c900b65-6fbf-4b46-8ef5-497055bb7cf8.jpeg)
 
-![image](https://user-images.githubusercontent.com/91786605/235800845-c216bc70-12df-415e-9b8f-a6c6ad7b3f7a.png)
+![image](https://user-images.githubusercontent.com/91786605/235802000-c6b7f74e-61ec-4388-ab11-684d5c8a3698.png)
+
