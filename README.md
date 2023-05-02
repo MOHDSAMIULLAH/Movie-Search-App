@@ -1,6 +1,6 @@
 # Movie-Search-App
 
-Hoisting Link: https://movie-web-search-app.netlify.app/
+## Hoisting Link: https://movie-web-search-app.netlify.app/
 
 • Utilized an API to retrieve data and display information about movies.</br>
 • Implemented a user-friendly interface for users to search for movies by title.</br>
